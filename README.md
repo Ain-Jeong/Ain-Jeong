@@ -15,7 +15,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2>💻 Operating Systems</h2>
+<h2>🔗 Operating Systems</h2>
 <p>
   <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
   <a href="https://www.apple.com/ca/ios/"><img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS"></a>
