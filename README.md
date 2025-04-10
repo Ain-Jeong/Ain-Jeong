@@ -27,5 +27,5 @@
 <p>
   <a href="https://arcade.makecode.com/S62990-40356-71626-75320">
     <img src="https://members-csforall.imgix.net/members/logos/microsoft-makecode.png" alt="Microsoft MakeCode | CSforALL" alt="Microsoft MakeCode logo"
-      height="100"></a>
+      height="30"></a>
 </p>
