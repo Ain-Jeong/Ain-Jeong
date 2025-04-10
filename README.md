@@ -22,3 +22,9 @@
   <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
   <a href="https://www.apple.com/ca/ios/"><img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS"></a>
 </p>
+
+<h2>🎮 MakeCode Arcade</h2>
+<p>
+  <a href="https://arcade.makecode.com/S62990-40356-71626-75320">
+    <img src="https://members-csforall.imgix.net/members/logos/microsoft-makecode.png" alt="Microsoft MakeCode | CSforALL" alt="Microsoft MakeCode logo"></a>
+</p>
